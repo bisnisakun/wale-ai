@@ -1,9 +1,3 @@
 flask
-ultralytics
-opencv-python
-numpy
-requests
 gunicorn
 werkzeug
-torch
-torchvision
